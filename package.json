@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "duplexer2": "~0.0.2",
-    "through2": "~0.6.3"
+    "through2": "~3.0.1"
   },
   "devDependencies": {
     "tape": "^3.0.1"
