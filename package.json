@@ -4,7 +4,7 @@
   "description": "make streaming http requests",
   "main": "index.js",
   "dependencies": {
-    "duplexer2": "~0.0.2",
+    "duplexer2": "~0.1.4",
     "through2": "~0.6.3"
   },
   "devDependencies": {
